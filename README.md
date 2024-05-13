@@ -43,6 +43,7 @@ Data is in abundance. Even for a single post, we get around 30-40 comments on av
 
 Eg:
 Post: "Paid Clinical Trials Just wondering if anyone has had any experience with these and if they’re good value for money. Definitely sounds enticing earning a few thousand dollars for a few weeks stay in a hospital"
+
 Comment: "Have done one got 3k for 2 days. \n\nHave to be healthy to do it. They took a metric tonne of blood. I did not enjoy the amount of blood letting. You get different amount of money fir how long and risky the trial is. Spent two night in inner city Auckland. No coffee for about a month and no sex or alcohol. So it's quite a big commitment, plus usually a few months if follow ups. \n\nAsk me anything else\n\nEdit. \n\nAlso no coffee drinking. They had sn issue with people having withdrawals from caffeine. Made the trials difficult due to them not knowing if dude affects were from drugs or symptoms. \n\nCompletely forgot. You get 3 meals and a snack, you get exact calories for food. No deviation and must piss in a special bucket that they give you. I drank loads of water so blood was easy to give. Pretty much couldn't get any blood on the third day."
 
 
