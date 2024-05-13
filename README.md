@@ -9,13 +9,11 @@ The aim of the project is to:
 
 ## Setup:
 This code is written in Python (v3.11.9).
-Installation of the corresponding packages are needed:
+Installation of the packages and their corresponding versions are needed:
 
- Package         | Version
- ============================
- praw            | 7.7.1
- nltk            | 3.8.1
- openai          | 1.28.1
+ praw  = 7.7.1;
+ nltk  = 3.8.1;
+ openai = 1.28.1
 
 VADER is used for Sentiment Analysis.
 Download the VADER lexicon using the following snippet: 
@@ -51,13 +49,12 @@ Comment: "Have done one got 3k for 2 days. \n\nHave to be healthy to do it. They
 ### Analyzing Sentiment of the post/comment using VADER Sentiment Intensity Analyzer
 1. For each post/comment, use VADER to get their polarity scores. 
 2.  Segmenting the scores according to the following:
-    Score                       | Segment
-    =========================================
-    less than -0.5              | Very Negative
-    between -0.5 and -0.05      | Negative
-    between -0.05 and 0.05      | Neutral
-    between 0.05 and 0.5        | Positive
-    greater than 0.5            | Very Positive
+
+    less than -0.5 = Very Negative;
+    between -0.5 and -0.05 = Negative;
+    between -0.05 and 0.05 = Neutral;
+    between 0.05 and 0.5 = Positive;
+    greater than 0.5 = Very Positive
 
 Eg:
 For the above example Post: 
